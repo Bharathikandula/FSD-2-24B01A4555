@@ -33,3 +33,4 @@ console.log(employee.name);
 // Not Accessible
 // console.log(employee.salary);      // Error: salary is private
 // console.log(employee.department);  // Error: department is protected
+node 
